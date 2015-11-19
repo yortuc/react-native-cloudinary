@@ -1,0 +1,26 @@
+{
+  "name": "react-native-cloudinary",
+  "version": "1.0.0",
+  "description": "Upload images to Cloudinary",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yortuc/react-native-cloudinary.git"
+  },
+  "keywords": [
+    "react-native",
+    "cloudinary"
+  ],
+  "author": "evren yortucboylu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yortuc/react-native-cloudinary/issues"
+  },
+  "homepage": "https://github.com/yortuc/react-native-cloudinary#readme",
+  "dependencies": {
+    "react-native-file-transfer": "0.0.3"
+  }
+}
